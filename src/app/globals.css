@@ -1,0 +1,126 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+  margin-top: .2em;
+  background-color: #6e6e6e90;
+}
+
+::-webkit-scrollbar-track {
+  background: none;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #6e6e6e; /*;*/
+  border-radius: 25px;
+  border: 2px solid #ffffff00; /*#0d0d0dde;*/
+}
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+.bg-hero-section-title {
+  background-image: linear-gradient(91deg, #fff 32.88%, hsla(0, 0%, 100%, .4) 99.12%);
+}
+
+.custom-swiper-navigation .swiper-button-next,
+.custom-swiper-navigation .swiper-button-prev {
+  color: #D9BA80; /* Cambia il colore a rosso-arancio */
+
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.custom-swiper-navigation .swiper-button-next {
+  color: #D9BA80;
+  display:none;
+}
+
+.custom-swiper-navigation .swiper-button-prev {
+  color: #D9BA80;
+  display: none;
+}
+
+.custom-swiper-navigation .swiper-button-next:hover,
+.custom-swiper-navigation .swiper-button-prev:hover {
+  color: #9C7540;
+}
+
+.custom-swiper-navigation .swiper-pagination-bullet {
+  background-color: #F3E2B7; /* Colore di default */
+  opacity: 0.7;
+}
+
+/* Colore per il bullet attivo */
+.custom-swiper-navigation .swiper-pagination-bullet-active {
+  background-color: #D9BA80; /* Colore personalizzato per il bullet attivo */
+  opacity: 1;
+}
+
+.swiper {
+  overflow: unset!important;
+  overflow-x: clip!important;
+}
+
+.class{
+
+}
+
+[data-language-switcher] {
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 10px;
+  transition: background-color 0.3s ease;
+}
+
+[data-language-switcher] {
+  padding: .375rem .5rem;
+  border-radius: 8px;
+  margin-bottom:0.2rem
+}
+[data-language-switcher]:hover {
+  background-color: #3e3e3e;
+
+}
+
+[data-is-current="true"] {
+  font-weight: bold;
+  color:#D9BA80;
+  background-color: #4a4a4a;
+}
+
+
+
+
