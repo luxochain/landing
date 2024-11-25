@@ -150,7 +150,7 @@ const Company = () => {
 
                 </div>
                 <Spacer y={6}/>
-                <VideoPlayer src={`/website/video/company_video_${t('slang')}.mp4`} poster='/website/video/frame2_company.png'
+                <VideoPlayer src={`https://bees.luxochain.io/assets-website/video/company_video_ENG.mp4`} poster='https://bees.luxochain.io/assets-website/video/frame2_company.png'
                              className='rounded-2xl border border-white/20'/>
             </div>
             <ModalRequestInfo isOpen={isOpen} onOpenChange={onOpenChange}/>

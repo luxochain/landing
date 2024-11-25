@@ -15,19 +15,19 @@ import {useTranslation} from "next-export-i18n";
 const teams = {
     founders: [
         {
-            src: '/website/teams/Baldi.jpg',
+            src: 'https://bees.luxochain.io/assets-website/teams/Baldi.jpg',
             name: 'Davide Baldi',
             job: 'founderCEO',
             linkedin: 'https://www.linkedin.com/in/davide-baldi-2b645023/'
         },
         {
-            src: '/website/teams/Consonni.jpg',
+            src: 'https://bees.luxochain.io/assets-website/teams/Consonni.jpg',
             name: 'Natale Consonni',
             job: 'founder',
             linkedin: 'https://www.linkedin.com/in/natale-consonni-2b40695/'
         },
         {
-            src: '/website/teams/Malgrati.jpg',
+            src: 'https://bees.luxochain.io/assets-website/teams/Malgrati.jpg',
             name: 'Alfredo Malgrati',
             job: 'founder',
             linkedin: 'https://www.linkedin.com/in/alfredo-cesare-malgrati-52b5564b/?originalSubdomain=it'
@@ -35,62 +35,62 @@ const teams = {
     ],
     management: [
         {
-            src: '/website/teams/Guarducci.jpg',
+            src: 'https://bees.luxochain.io/assets-website/teams/Guarducci.jpg',
             name: 'Marco Guarducci',
             job: 'CTO',
             linkedin: 'https://www.linkedin.com/in/guarduccimarco/'
         },
         {
-            src: '/website/teams/Vigano.jpg',
+            src: 'https://bees.luxochain.io/assets-website/teams/Vigano.jpg',
             name: 'Federico Viganò',
             job: 'COO',
             linkedin: 'https://www.linkedin.com/in/federicovigano/'
         },
         {
-            src: '/website/teams/Caruso.jpg',
+            src: 'https://bees.luxochain.io/assets-website/teams/Caruso.jpg',
             name: 'Gianmarco Caruso',
             job: 'creativeDirector',
             linkedin: 'https://www.linkedin.com/in/giovanni-marco-caruso-13a967160/'
         },
         {
-            src: '/website/teams/Montini.jpg',
+            src: 'https://bees.luxochain.io/assets-website/teams/Montini.jpg',
             name: 'Valeria Montini',
             job: 'administrationManager',
             linkedin: 'https://www.linkedin.com/in/valeria-montini-47973422b/?originalSubdomain=ch'
         },
         {
-            src: '/website/teams/Bazzini.jpg',
+            src: 'https://bees.luxochain.io/assets-website/teams/Bazzini.jpg',
             name: 'Davide Bazzini',
             job: 'marketingSpecialist',
             linkedin: 'https://www.linkedin.com/in/davide-bazzini-699045252/'
         },
         {
-            src: '/website/teams/Zucchetti.jpg',
+            src: 'https://bees.luxochain.io/assets-website/teams/Zucchetti.jpg',
             name: 'Davide Zucchetti',
             job: 'marketingManager',
             linkedin: 'https://www.linkedin.com/in/davide-zucchetti-hiskill/'
         }],
     market: [
         {
-            src: '/website/teams/Ruffa.jpg',
+            src: 'https://bees.luxochain.io/assets-website/teams/Ruffa.jpg',
             name: 'Marco Ruffa',
             job: 'headOfLuxuryMarket',
             linkedin: 'https://www.linkedin.com/in/marcoruffa/'
         },
         {
-            src: '/website/teams/Ferlin.jpg',
+            src: 'https://bees.luxochain.io/assets-website/teams/Ferlin.jpg',
             name: 'Alberto Ferlin',
             job: 'strategicalPartnership',
             linkedin: 'https://www.linkedin.com/in/alberto-ferlin-963a3332/'
         },
         {
-            src: '/website/teams/Tosi.jpg',
+            src: 'https://bees.luxochain.io/assets-website/teams/Tosi.jpg',
             name: 'Leonardo Tosi',
             job: 'businessDeveloper',
             linkedin: 'https://www.linkedin.com/in/leonardo-tosi-612a01239/'
         },
         {
-            src: '/website/teams/Durbano.jpg',
+            src: 'https://bees.luxochain.io/assets-website/teams/Durbano.jpg',
             name: 'Alessandro Durbano',
             job: 'businessDeveloper',
             linkedin: 'https://www.linkedin.com/in/alessandro-durbano-85011b92/'
@@ -103,32 +103,32 @@ const teams = {
         //     job: 'Project Manager'
         // },
         {
-            src: '/website/teams/Cavallini.jpg',
+            src: 'https://bees.luxochain.io/assets-website/teams/Cavallini.jpg',
             name: 'Barbara Cavallini',
             job: 'projectManager',
             linkedin: 'https://www.linkedin.com/in/barbara-cavallini-7177b442/'
         }],
     dev: [
         {
-            src: '/website/teams/Bujor.jpg',
+            src: 'https://bees.luxochain.io/assets-website/teams/Bujor.jpg',
             name: 'Marcel Bujor',
             job: 'teamLeader',
             linkedin: 'https://www.linkedin.com/in/marcel-iulian-bujor-38b96a1b2/'
         },
         {
-            src: '/website/teams/Rovai.jpg',
+            src: 'https://bees.luxochain.io/assets-website/teams/Rovai.jpg',
             name: 'Lorenzo Rovai',
             job: 'seniorDeveloper',
             linkedin: 'https://www.linkedin.com/in/lorenzo-rovai-732554176/'
         },
         {
-            src: '/website/teams/Pacchioni.jpg',
+            src: 'https://bees.luxochain.io/assets-website/teams/Pacchioni.jpg',
             name: 'Fabio Pacchioni',
             job: 'seniorDeveloper',
             linkedin: 'https://www.linkedin.com/in/fabio-pacchioni-34a80670/'
         },
         {
-            src: '/website/teams/Innocenti.jpg',
+            src: 'https://bees.luxochain.io/assets-website/teams/Innocenti.jpg',
             name: 'Stefano Innocenti',
             job: 'seniorDeveloper',
             linkedin: 'https://www.linkedin.com/in/stefano-innocenti-637a90228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'

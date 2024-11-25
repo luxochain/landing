@@ -26,7 +26,7 @@ export const Regulations = () => {
 
                 <div
                     className="max-w-4xl mx-auto mt-16 overflow-hidden  rounded-2xl group border-1  border-white/20 ">
-                    <VideoPlayer src={`/website/video/DPPs_EU_Regulations_${t('slang')}.mp4`} poster={"/website/video/frame1_video_eu.png"} withShadow/>
+                    <VideoPlayer src={`https://bees.luxochain.io/assets-website/video/DPPs_EU_Regulations_${t('slang')}.mp4`} poster={"https://bees.luxochain.io/assets-website/video/frame1_video_eu.png"} withShadow/>
 
                     <div
                         className="px-6 py-8 transition-all duration-200 sm:px-8 sm:py-12 lg:px-16 lg:py-20 bg-content1 hover:bg-content1/80">

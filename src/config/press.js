@@ -1,201 +1,201 @@
 export const press = [
     {
-        image: '/website/press/asso_digitale.png',
+        image: 'https://bees.luxochain.io/assets-website/press/asso_digitale.png',
         priority: 1,
         link: 'https://assodigitale.it/criptovalute/marketing-comunicazione/blockchain-lusso-nuova-sfida-dopo-finanza/'
     },
     {
-        image: '/website/press/asso_digitale.png',
+        image: 'https://bees.luxochain.io/assets-website/press/asso_digitale.png',
         priority: 2,
         link: 'https://assodigitale.it/criptovalute/marketing-comunicazione/blockchain-lusso-nuova-sfida-dopo-finanza/'
     },
     {
-        image: '/website/press/alanews.png',
+        image: 'https://bees.luxochain.io/assets-website/press/alanews.png',
         priority: 4,
         link: 'https://www.alanews.it/economia/luxochain-consonni-creata-per-avere-prodotti-di-lusso-autentici/'
     },
     {
-        image: '/website/press/ansa.png',
+        image: 'https://bees.luxochain.io/assets-website/press/ansa.png',
         priority: 5,
         link: 'https://www.ansa.it/sito/notizie/postit/Fintech/2018/04/12/luxochain-con-blockchain-difende-lusso-da-contraffazione-_9b85d037-dd54-45f2-b42c-4890114dc0dc.html'
     },
     {
-        image: '/website/press/ansa.png',
+        image: 'https://bees.luxochain.io/assets-website/press/ansa.png',
         priority: 6,
         link: 'https://www.ansa.it/sito/videogallery/economia/2018/04/12/luxochain-consonni-creata-per-avere-prodotti-di-lusso-autentici_ce6002a5-4aae-4dda-bf74-afca330c11d0.html'
     },
     {
-        image: '/website/press/forbes.png',
+        image: 'https://bees.luxochain.io/assets-website/press/forbes.png',
         priority: 7,
         link: 'https://www.forbes.com/sites/icoengine/2018/09/28/luxochain-taps-blockchain-to-combat-the-counterfeit-luxury-goods-market/#5f2783d4231d'
     },
     {
-        image: '/website/press/interlogica.png',
+        image: 'https://bees.luxochain.io/assets-website/press/interlogica.png',
         priority: 8,
         link: 'https://www.interlogica.it/news/bitcoin-arena/'
     },
     {
-        image: '/website/press/fortune.png',
+        image: 'https://bees.luxochain.io/assets-website/press/fortune.png',
         priority: 9,
         link: 'https://www.fortuneita.com/2019/01/10/sfida-al-mercato-nero-del-lusso/'
     },
     {
-        image: '/website/press/ansa.png',
+        image: 'https://bees.luxochain.io/assets-website/press/ansa.png',
         priority: 10,
         link: 'https://www.ansa.it/industry_4_0/notizie/postit/2019/01/10/lusso-luxochain-combatte-la-contraffazione-con-blockchain_c268bb56-e3f5-4862-b9ac-d02781e6afb8.html'
     },
     {
-        image: '/website/press/gambero_rosso.png',
+        image: 'https://bees.luxochain.io/assets-website/press/gambero_rosso.png',
         priority: 11,
         link: 'https://www.gamberorosso.it/wp-content/uploads/settimanale-n2-2019.pdf'
     },
     {
-        image: '/website/press/business_insider.png',
+        image: 'https://bees.luxochain.io/assets-website/press/business_insider.png',
         priority: 12,
         link: 'https://markets.businessinsider.com/news/stocks/luxochain-combats-counterfeiting-with-launch-of-authentication-and-tracking-service-of-luxury-goods-on-the-blockchain-1027885520'
     },
     {
-        image: '/website/press/crypto_ninjas.png',
+        image: 'https://bees.luxochain.io/assets-website/press/crypto_ninjas.png',
         priority: 13,
         link: 'https://www.cryptoninjas.net/2019/01/22/luxochain-launches-authentication-and-tracking-service-of-luxury-goods-on-the-blockchain/'
     },
     {
-        image: '/website/press/wsi.png',
+        image: 'https://bees.luxochain.io/assets-website/press/wsi.png',
         priority: 14,
         link: 'https://www.wallstreetitalia.com/blockchain-nuova-politica-economica-in-italia/'
     },
     {
-        image: '/website/press/cointelegraph.png',
+        image: 'https://bees.luxochain.io/assets-website/press/cointelegraph.png',
         priority: 15,
         link: 'https://it.cointelegraph.com/news/blockchain-digital-innovation-our-recap'
     },
     {
-        image: '/website/press/corriere_nazionale.png',
+        image: 'https://bees.luxochain.io/assets-website/press/corriere_nazionale.png',
         priority: 16,
         link: 'https://www.corrierenazionale.it/2019/10/30/virgo-difende-autenticita-made-in-italy/'
     },
     {
-        image: '/website/press/wallstreet_online.png',
+        image: 'https://bees.luxochain.io/assets-website/press/wallstreet_online.png',
         priority: 17,
         link: 'https://www.wallstreet-online.de/nachricht/12426890-virgo-plattform-fuer-nachhaltigkeit-reputation-authentizitaet-fuer-mode-luxusgueter'
     },
     {
-        image: '/website/press/luxury_finance.png',
+        image: 'https://bees.luxochain.io/assets-website/press/luxury_finance.png',
         priority: 18,
         link: 'https://www.luxuryandfinance.it/articoli/nasce-virgo-piattaforma-per-monitorare-le-catene-di-valore-nel-lusso'
     },
     {
-        image: '/website/press/cision.png',
+        image: 'https://bees.luxochain.io/assets-website/press/cision.png',
         priority: 19,
         link: 'https://www.prnewswire.co.uk/news-releases/virgo-the-new-sustainability-reputation-amp-authenticity-platform-dedicated-to-fashion-amp-luxury-899253465.html'
     },
     {
-        image: '/website/press/crypto_news.png',
+        image: 'https://bees.luxochain.io/assets-website/press/crypto_news.png',
         priority: 20,
         link: 'https://crypto.news/pwc-launch-blockchain-luxury-goods-authentication-solution/'
     },
     {
-        image: '/website/press/ledger_insights.png',
+        image: 'https://bees.luxochain.io/assets-website/press/ledger_insights.png',
         priority: 21,
         link: 'https://www.ledgerinsights.com/blockchain-luxury-counterfeit-prevention-pwc-var-virgo/'
     },
     {
-        image: '/website/press/tio20.png',
+        image: 'https://bees.luxochain.io/assets-website/press/tio20.png',
         priority: 22,
         link: 'https://www.tio.ch/ticino/attualita/1444203/lugano-cittadini-strutture-giugno-citta-eventi-lidi-accesso-sicurezza-piattaforma'
     },
     {
-        image: '/website/press/affari_italiani.png',
+        image: 'https://bees.luxochain.io/assets-website/press/affari_italiani.png',
         priority: 23,
         link: 'https://www.affaritaliani.it/economia/lugano-citta-piu-sicura-dai-contagi-grazie-alla-blockchain-679490.html'
     },
     {
-        image: '/website/press/cryptonomist.png',
+        image: 'https://bees.luxochain.io/assets-website/press/cryptonomist.png',
         priority: 24,
         link: 'https://en.cryptonomist.ch/2020/06/18/lugano-booking-app-blockchain/?_gl=1*1irr59l*_ga*OTkyMzU0ODA4LjE2OTc1NjkzOTE.*_ga_JZ46NG4KVG*MTY5NzU2OTM5MS4xLjAuMTY5NzU2OTM5MS4wLjAuMA'
     },
     {
-        image: '/website/press/adnkronos.png',
+        image: 'https://bees.luxochain.io/assets-website/press/adnkronos.png',
         priority: 25,
         link: 'https://www.adnkronos.com/Archivio/economia/lugano-sempre-piu-smart-city-vince-covid-con-piattaforma-prenotaluganoch_7xMJUASkQKS8xd6RHHsksa'
     },
     {
-        image: '/website/press/blockchain_innovation.png',
+        image: 'https://bees.luxochain.io/assets-website/press/blockchain_innovation.png',
         priority: 26,
         link: 'https://www.blockchain4innovation.it/mercati/pubblica-amministrazione/smart-city-nel-segno-della-blockchain-a-lugano-lapp-per-prenotare-laccesso-a-servizi-ed-eventi/'
     },
     {
-        image: '/website/press/investing_com.png',
+        image: 'https://bees.luxochain.io/assets-website/press/investing_com.png',
         priority: 27,
         link: 'https://it.investing.com/news/cryptocurrency-news/moneyit-ha-realizzato-un-sistema-blockchainbased-per-garantire-lautenticita-delle-notizie-1970067'
     },
     {
-        image: '/website/press/pambianco_news.png',
+        image: 'https://bees.luxochain.io/assets-website/press/pambianco_news.png',
         priority: 28,
         link: 'https://www.pambianconews.com/2021/03/09/pinko-promuove-leconomia-circolare-con-la-blockchain-312444/'
     },
     {
-        image: '/website/press/money.png',
+        image: 'https://bees.luxochain.io/assets-website/press/money.png',
         priority: 29,
         link: 'https://www.money.it/Pinko-moda-circolare-collezione-Reimagine-blockchain'
     },
     {
-        image: '/website/press/fortune.png',
+        image: 'https://bees.luxochain.io/assets-website/press/fortune.png',
         priority: 30,
         link: 'https://www.fortuneita.com/2021/03/11/blockchain-e-moda-un-binomio-che-crea-valore/'
     },
     {
-        image: '/website/press/cryptonomist.png',
+        image: 'https://bees.luxochain.io/assets-website/press/cryptonomist.png',
         priority: 31,
         link: 'https://en.cryptonomist.ch/2021/03/15/reimagine-pinko-on-blockchain/'
     },
     {
-        image: '/website/press/cryptonomist.png',
+        image: 'https://bees.luxochain.io/assets-website/press/cryptonomist.png',
         priority: 32,
         link: 'https://cryptonomist.ch/2021/03/15/reimagine-pinko-sulla-blockchain/'
     },
     {
-        image: '/website/press/cointelegraph.png',
+        image: 'https://bees.luxochain.io/assets-website/press/cointelegraph.png',
         priority: 33,
         link: 'https://it.cointelegraph.com/news/the-city-of-lugano-organizes-an-event-on-blockchain-bitcoin-and-cryptocurrencies'
     },
     {
-        image: '/website/press/la_regione.png',
+        image: 'https://bees.luxochain.io/assets-website/press/la_regione.png',
         priority: 34,
         link: 'https://www.laregione.ch/cantone/luganese/1543122/blockchain-lugano-supsi-beatcoin-blockchange'
     },
     {
-        image: '/website/press/lugano_living_lab.png',
+        image: 'https://bees.luxochain.io/assets-website/press/lugano_living_lab.png',
         priority: 35,
         link: 'https://www.youtube.com/watch?v=RuHezRgPAcA&t=491s'
     },
     {
-        image: '/website/press/asso_digitale.png',
+        image: 'https://bees.luxochain.io/assets-website/press/asso_digitale.png',
         priority: 36,
         link: 'https://assodigitale.it/criptovalute/convegni-eventi/beatcoin-nd-blockchange-a-lugano-un-evento-sulla-tecnologia-blockchain-bitcoin-e-criptovalute/'
     },
     {
-        image: '/website/press/herage.png',
+        image: 'https://bees.luxochain.io/assets-website/press/herage.png',
         priority: 37,
         link: 'https://her-age.com/blogs/la-gazetta/sustainability-and-re-commerce-philosophy'
     },
     {
-        image: '/website/press/fashion_magazine.png',
+        image: 'https://bees.luxochain.io/assets-website/press/fashion_magazine.png',
         priority: 38,
         link: 'https://www.fashionmagazine.it/market/ceo-roundtable-on-being-best-in-class-essere-iconici-non-basta-ai-brand-il-mercato-chiede-di-pi-e-la-tecnologia--al-loro-fianco-108374'
     },
     {
-        image: '/website/press/forbes.png',
+        image: 'https://bees.luxochain.io/assets-website/press/forbes.png',
         priority: 39,
         link: 'https://forbes.it/2021/11/17/laboratori-workshop-mostre-internazionali-lugano-ntf-week/'
     },
     {
-        image: '/website/press/adnkronos.png',
+        image: 'https://bees.luxochain.io/assets-website/press/adnkronos.png',
         priority: 40,
         link: 'https://www.adnkronos.com/Archivio/immediapress/ict/lugano-nft-week-lugano-is-becoming-a-blockchain-e-crypto-friendly-city_50vLQY2CsFgJb4wzV6l4tq'
     },
     {
-        image: '/website/press/69_news.png',
+        image: 'https://bees.luxochain.io/assets-website/press/69_news.png',
         priority: 41,
         link: 'https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lugano-nft-week-lugano-is-becoming-a-blockchain-crypto-friendly-city/article_07511f0c-f51c-5750-8ec6-2763a1265267.html'
     },

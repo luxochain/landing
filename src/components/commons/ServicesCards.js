@@ -14,9 +14,9 @@ export function ServicesCards() {
         {
             description: t('services1Content'),
             title: t('services1Title'),
-            src: "/website/services/DPP.png",
+            src: "https://bees.luxochain.io/assets-website/services/DPP.png",
             ctaText: t('servicesCtaDetails'),
-            ctaLink: `/website/pdf/DPP_Loyalty_Regulations_${t('slang')}.pdf`,
+            ctaLink: `https://bees.luxochain.io/assets-website/pdf/DPP_Loyalty_Regulations_${t('slang')}.pdf`,
             content: () => {
                 return (
                     (
@@ -44,9 +44,9 @@ export function ServicesCards() {
         {
             description: t('services2Content'),
             title: t('services2Title'),
-            src: "/website/services/Digital_Twin.png",
+            src: "https://bees.luxochain.io/assets-website/services/Digital_Twin.png",
             ctaText: t('servicesCtaDetails'),
-            ctaLink: `/website/pdf/Digital_Twin_2024_final_${t('slang')}.pdf`,
+            ctaLink: `https://bees.luxochain.io/assets-website/pdf/Digital_Twin_2024_final_${t('slang')}.pdf`,
             content: () => {
                 return (
                     (<ScrollShadow>
@@ -77,9 +77,9 @@ export function ServicesCards() {
         {
             description: t('services3Content'),
             title: t('services3Title'),
-            src: "/website/services/Collectible.png",
+            src: "https://bees.luxochain.io/assets-website/services/Collectible.png",
             ctaText: t('servicesCtaDetails'),
-            ctaLink: `/website/pdf/Collectibles_2024_final_${t('slang')}.pdf`,
+            ctaLink: `https://bees.luxochain.io/assets-website/pdf/Collectibles_2024_final_${t('slang')}.pdf`,
             content: () => {
                 return (
                     (<ScrollShadow>
@@ -112,9 +112,9 @@ export function ServicesCards() {
         }, {
             description: t('services4Content'),
             title: t('services4Title'),
-            src: "/website/services/Loyalty.png",
+            src: "https://bees.luxochain.io/assets-website/services/Loyalty.png",
             ctaText: t('servicesCtaDetails'),
-            ctaLink: `/website/pdf/Loyalty_Program_2024_final_${t('slang')}.pdf`,
+            ctaLink: `https://bees.luxochain.io/assets-website/pdf/Loyalty_Program_2024_final_${t('slang')}.pdf`,
             content: () => {
                 return (
                     (<ScrollShadow>

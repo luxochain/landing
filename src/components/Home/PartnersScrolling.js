@@ -5,54 +5,54 @@ import {useTranslation} from "next-export-i18n";
 
 const logosPartners = [
     {key: "logo-1",
-        jsx: <Image removeWrapper className="rounded-none" src="/website/logos_partners/ibooster_logo.png"
+        jsx: <Image removeWrapper className="rounded-none" src="https://bees.luxochain.io/assets-website/logos_partners/ibooster_logo.png"
                     alt="Partner logo"/>
     },
     {key: "logo-2",
-        jsx: <Image removeWrapper className="rounded-none" src="/website/logos_partners/lsfze_logo.png"
+        jsx: <Image removeWrapper className="rounded-none" src="https://bees.luxochain.io/assets-website/logos_partners/lsfze_logo.png"
                     alt="Partner logo"/>
     },
     {key: "logo-3",
-        jsx: <Image removeWrapper className="rounded-none" src="/website/logos_partners/lvga_logo.png"
+        jsx: <Image removeWrapper className="rounded-none" src="https://bees.luxochain.io/assets-website/logos_partners/lvga_logo.png"
                     alt="Partner logo"/>
     },
     {key: "logo-4",
-        jsx: <Image removeWrapper className="rounded-none" src="/website/logos_partners/polygon_logo.png"
+        jsx: <Image removeWrapper className="rounded-none" src="https://bees.luxochain.io/assets-website/logos_partners/polygon_logo.png"
                     alt="Partner logo"/>
     },
     {key: "logo-5",
-        jsx: <Image removeWrapper className="rounded-none" src="/website/logos_partners/pwc_logo.png"
+        jsx: <Image removeWrapper className="rounded-none" src="https://bees.luxochain.io/assets-website/logos_partners/pwc_logo.png"
                     alt="Partner logo"/>
     },
     {key: "logo-6",
-        jsx: <Image removeWrapper className="rounded-none" src="/website/logos_partners/temera_logo.png"
+        jsx: <Image removeWrapper className="rounded-none" src="https://bees.luxochain.io/assets-website/logos_partners/temera_logo.png"
                     alt="Partner logo"/>
     },
     {key: "logo-7",
-        jsx: <Image removeWrapper className="rounded-none" src="/website/logos_partners/vargroup_logo.png"
+        jsx: <Image removeWrapper className="rounded-none" src="https://bees.luxochain.io/assets-website/logos_partners/vargroup_logo.png"
                     alt="Partner logo"/>
     },
 ];
 
 const logosClients = [
     {key: "logo-8",
-        jsx: <Image removeWrapper className="rounded-none h-full" src="/website/logos_clients/blue_note.png"
+        jsx: <Image removeWrapper className="rounded-none h-full" src="https://bees.luxochain.io/assets-website/logos_clients/blue_note.png"
                     alt="Client logo"/>
     },
     {key: "logo-9",
-        jsx: <Image removeWrapper className="rounded-none h-full" src="/website/logos_clients/bulgari.png"
+        jsx: <Image removeWrapper className="rounded-none h-full" src="https://bees.luxochain.io/assets-website/logos_clients/bulgari.png"
                     alt="Client logo"/>
     },
     {key: "logo-10",
-        jsx: <Image removeWrapper className="rounded-none h-full" src="/website/logos_clients/lugano.png"
+        jsx: <Image removeWrapper className="rounded-none h-full" src="https://bees.luxochain.io/assets-website/logos_clients/lugano.png"
                     alt="Client logo"/>
     },
     {key: "logo-11",
-        jsx: <Image removeWrapper className="rounded-none h-full" src="/website/logos_clients/pinko.png"
+        jsx: <Image removeWrapper className="rounded-none h-full" src="https://bees.luxochain.io/assets-website/logos_clients/pinko.png"
                     alt="Client logo"/>
     },
     {key: "logo-12",
-        jsx: <Image removeWrapper className="rounded-none h-full" src="/website/logos_clients/v33.png"
+        jsx: <Image removeWrapper className="rounded-none h-full" src="https://bees.luxochain.io/assets-website/logos_clients/v33.png"
                     alt="Client logo"/>
     },
 ];

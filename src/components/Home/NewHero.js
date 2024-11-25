@@ -8,7 +8,7 @@ import {useTranslation} from "next-export-i18n";
 
 const DiamondGIF = ({className}) => {
     return (
-        <img src={'/website/video/diamond.gif'} alt='Diamond' className={`w-[3.5rem] sm:w-[4.5rem] ${className}`}/>
+        <img src={'https://bees.luxochain.io/assets-website/video/diamond.gif'} alt='Diamond' className={`w-[3.5rem] sm:w-[4.5rem] ${className}`}/>
     )
 }
 
@@ -17,7 +17,7 @@ export const NewHero = () => {
     return (
         <>
             <section
-                className="z-20 relative my-14 flex flex-col items-center justify-center gap-[22px] sm:gap-[2.5rem] ">
+                className="z-20 relative my-14 px-2 flex flex-col items-center justify-center gap-[22px] sm:gap-[2.5rem] ">
                 <Button
                     className="h-9 block overflow-hidden border-solid border-small border-white/20 bg-content1 px-[18px] py-2 text-small font-normal leading-5 text-default-500"
                     radius="full"
